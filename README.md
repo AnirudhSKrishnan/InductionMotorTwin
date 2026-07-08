@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LSTM Digital Twin of a Three-Phase Induction Motor
 
 A data-driven digital twin of a three-phase squirrel-cage induction motor. A physics-based
@@ -114,3 +115,6 @@ standstill to synchronous speed and settles into steady state. Columns:
 - Train across multiple load conditions and fault scenarios (broken rotor bar, phase imbalance)
 - Use the twin for anomaly detection by monitoring residuals against live measurements
 - Export to ONNX / TorchScript for real-time deployment alongside the drive controller
+=======
+# InductionMotorTwin
+>>>>>>> 97b559d3da562fc428e01ef24e774a12dd1410a5
