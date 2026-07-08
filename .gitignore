@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+
+# Training outputs
+artifacts/
+
+# Simulink autosaves and caches
+*.slx.autosave
+*.autosave
+slprj/
+*.slxc
+
+# Large datasets (regenerate from the Simulink model)
+data/*.csv
+data/*.xlsx
+
+# Notebook checkpoints
+.ipynb_checkpoints/
